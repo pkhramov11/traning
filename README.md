@@ -1,2 +1,2 @@
 # traning
-Example
+Example and study new features
