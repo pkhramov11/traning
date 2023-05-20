@@ -9,5 +9,5 @@ Example number six
 Example number seven
 Example number eight 
 Example number nine
-Exasmple number ten
-Exasmple number eleven
+Example number ten
+Example number eleven
