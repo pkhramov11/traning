@@ -20,3 +20,4 @@ Example number three
 Example number four
 Example number five
 Example number six
+Example number seven
